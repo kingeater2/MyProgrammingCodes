@@ -1,0 +1,4 @@
+
+def searchRange(nums, target):
+       
+    
